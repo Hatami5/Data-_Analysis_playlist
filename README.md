@@ -1,6 +1,6 @@
-Data Analysis & Dashboards
+<h1>Data Analysis & Dashboards</h1>
 
-Modern data analysis, visualization & interactive dashboards using Python, SQL, Power BI, Tableau & Excel.
+<p>Modern data analysis, visualization & interactive dashboards using Python, SQL, Power BI, Tableau & Excel.
 
 Table of Contents
 
@@ -20,7 +20,7 @@ License
 
 Contact
 
-Overview
+Overview</p>
 
 This repository collects hands-on data analysis projects and interactive dashboards built with a mix of tools commonly used in industry: Python (Pandas, NumPy, Matplotlib, Seaborn, Plotly), SQL (PostgreSQL), Power BI, Tableau, and Excel. The projects demonstrate data cleaning, exploratory data analysis (EDA), visualization, and dashboarding techniques with reproducible workflows.
 
